@@ -126,3 +126,7 @@ a:hover .icon svg {
 	font-weight: bold;
 	padding: 8px 13px;
 }
+
+.portfolio-project img {
+	width: 100%;
+}
