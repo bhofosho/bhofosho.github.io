@@ -106,6 +106,16 @@ a:hover .icon svg {
 	margin-bottom: 1.5em;
 }
 
+.portfolio .portfolio-item a {
+	color: rgb(0,0,0);
+	text-decoration: none;
+}
+
+.portfolio .portfolio-item a:hover {
+	color: rgb(239, 65, 66);
+	text-decoration: underline;
+}
+
 .portfolio .portfolio-item img {
 	width: 100%;
 }
