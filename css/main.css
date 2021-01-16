@@ -25,6 +25,7 @@ header a.active:hover {
 
 header .page-links {
 	padding: 0;
+	text-indent: -9999em;
 }
 
 header .page-links .nav-link {
